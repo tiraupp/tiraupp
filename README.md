@@ -29,7 +29,7 @@
 <h3 align="left">Tecnologias:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,express,nodejs,prisma,jest,postgres,mongo,matlab,html,css,arduino,py,c,cs,cpp,git,gitlab,github,docker,heroku" />
+    <img src="https://skillicons.dev/icons?i=ts,js,express,nodejs,prisma,postgres,mongo,html,css,py,c,cs,git,gitlab,github" />
   </a>
 </p>
 
