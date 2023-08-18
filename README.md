@@ -2,10 +2,12 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Seja+muito+bem-vindo!!!)
 
-
+<div align="center"> 
+ 
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=tiraupp&custom_title=Top%20%Linguagens&theme=tokyonight&hide_border=true)
 ![GitHub Status](https://github-readme-stats.vercel.app/api?username=tiraupp&custom_title=GitHub%20%Status&show_icons=true&theme=tokyonight&hide_border=true)
 
+</div>
 
 
 <h3 align="left">Sobre:</h3>
