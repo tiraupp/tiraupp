@@ -4,13 +4,15 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=tiraupp&show_icons=true&theme=outrun" alt="Tiago Raupp GitHub stats" />
-  
-  <img width="37%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiraupp&layout=compact&hide_border=true&title_color=f9c701&text_color=7070e3&bg_color=141439" />
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=tiraupp&custom_title=Top%20%Linguagens&theme=tokyonight&hide_border=true)
+![GitHub Status](https://github-readme-stats.vercel.app/api?username=tiraupp&custom_title=GitHub%20%Status&show_icons=true&theme=tokyonight&hide_border=true)
+
+
 </div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tiraupp&bg_color=1c1c1c&color=ffffff&line=ffffff&point=ffffff&area=true&custom_title=Minhas%20%Contribuições&theme=tokyonight&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tiraupp&bg_color=0e0e27&color=f5c402&line=f5c402&point=f5c402&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <h3 align="left">Sobre:</h3>
@@ -24,19 +26,13 @@
 <h3 align="left">Contatos:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/tiago-raupp/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:tiraupp@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=instagran" /></a> 
 </p>
 
 <h3 align="left">Tecnologias:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,express,nodejs,prisma,postgres,mongo,html,css,py,c,cs,git,gitlab,github" />
-  </a>
-</p>
-
-<h3 align="left">Estudando:</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=next,react,r,pytorch" />
+    <img src="https://skillicons.dev/icons?i=ts,js,express,next,react,nodejs,prisma,postgres,html,css,git,github" />
   </a>
 </p>
 
