@@ -1,8 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7070e3&height=120&section=header"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Seja+muito+bem-vindo!!!)
+
 
 <div align="center"> 
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=15079FC3&background=00160100&center=true&vCenter=true&multiline=true&width=600&lines=Seja+muito+bem-vindo!!!)](https://git.io/typing-svg)
  
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=tiraupp&custom_title=Top%20%Linguagens&theme=tokyonight&hide_border=true)
 ![GitHub Status](https://github-readme-stats.vercel.app/api?username=tiraupp&custom_title=GitHub%20%Status&show_icons=true&theme=tokyonight&hide_border=true)
